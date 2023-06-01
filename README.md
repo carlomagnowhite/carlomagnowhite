@@ -10,9 +10,14 @@
 
 * WORK HARD!
 
+<figure>
+    <img src = "img/facebook.png" style="width:200px;height:200px;">
+</figure>
+
 [![facebook](icons/facebook.png)](https://www.facebook.com/mateo.diaz.13/)
 [![instagram](icons/instagram.png)](https://www.instagram.com/_matcris_/)
 [![spotify](icons/spotify.png)](https://open.spotify.com/user/213jio4nopdjdtmoqqljy3uai?si=860b4c9764d348d6)
+[![github](icons/github.png)](https://github.com/carlomagnowhite)
 
 
 <!---
