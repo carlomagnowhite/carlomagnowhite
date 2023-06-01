@@ -10,14 +10,22 @@
 
 * WORK HARD!
 
-<figure>
-    <img src = "img/facebook.png" style="width:200px;height:200px;">
-</figure>
+<div style = "display: flex; justify-content: center;">
 
-[![facebook](icons/facebook.png)](https://www.facebook.com/mateo.diaz.13/)
-[![instagram](icons/instagram.png)](https://www.instagram.com/_matcris_/)
-[![spotify](icons/spotify.png)](https://open.spotify.com/user/213jio4nopdjdtmoqqljy3uai?si=860b4c9764d348d6)
-[![github](icons/github.png)](https://github.com/carlomagnowhite)
+<a href="https://www.facebook.com/mateo.diaz.13/"><img src="icons/facebook.png" alt="Facebook" width="80" height="80"></a>
+
+<a href = "https://www.instagram.com/_matcris_/"><img src="icons/instagram.png" alt="Instagram"
+width="80" height="80"></a>
+
+<a href = "https://open.spotify.com/user/213jio4nopdjdtmoqqljy3uaisi=860b4c9764d348d6"><img src="icons/spotify.png" alt="Spotify" width="80" height="80"></a>
+
+<a href = "https://github.com/carlomagnowhite"><img src="icons/github.png" alt="Spotify" width="80" height="80"></a>
+
+</div>
+
+
+
+
 
 
 <!---
