@@ -19,7 +19,7 @@ width="80" height="80"></a>
 
 <a href = "https://open.spotify.com/user/213jio4nopdjdtmoqqljy3uaisi=860b4c9764d348d6"><img src="icons/spotify.png" alt="Spotify" width="80" height="80"></a>
 
-<a href = "https://github.com/carlomagnowhite"><img src="icons/github.png" alt="Spotify" width="80" height="80"></a>
+<a href = "https://github.com/carlomagnowhite"><img src="icons/github.png" alt="Github" width="80" height="80"></a>
 
 </div>
 
