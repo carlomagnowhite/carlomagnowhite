@@ -17,7 +17,7 @@
 <a href = "https://www.instagram.com/_matcris_/"><img src="icons/instagram.png" alt="Instagram"
 width="80" height="80"></a>
 
-<a href = "https://open.spotify.com/user/213jio4nopdjdtmoqqljy3uaisi=860b4c9764d348d6"><img src="icons/spotify.png" alt="Spotify" width="80" height="80"></a>
+<a href = "https://linkedin.com/in/mateo-díaz-044966216"><img src="icons/linkedin.png" alt="Linkedin" width="80" height="80"></a>
 
 <a href = "https://github.com/carlomagnowhite"><img src="icons/github.png" alt="Github" width="80" height="80"></a>
 
