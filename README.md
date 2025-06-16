@@ -2,13 +2,13 @@
 
 * Mateo Díaz Gómez
 
-* Software engineering student
+* Software Engineer
 
 * UTA FISEI
 
 * Cuenca, Azuay - Ecuador.
 
-* WORK HARD!
+* FOCUS!
 
 <div style = "display: flex; justify-content: center;">
 
