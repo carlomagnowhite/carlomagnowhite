@@ -47,8 +47,8 @@ mateo@backend:~$ ls -la goals/
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlomagnowhite&show_icons=true&theme=matrix" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlomagnowhite&theme=matrix" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlomagnowhite&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlomagnowhite&theme=dark" alt="GitHub Streak"/>
 </div>
 
 ## 🌐 Connect With Me
@@ -58,19 +58,19 @@ mateo@backend:~$ ./connect.sh
 ```
 
 <div align="center">
-  <a href="https://www.facebook.com/mateo.diaz.13/">
+  <a href="https://www.facebook.com/mateo.diaz.13/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="100" height="100"/>
   </a>
-  <a href="https://gitlab.com/matt.diaz.gomez/">
+  <a href="https://gitlab.com/matt.diaz.gomez/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="100" height="100"/>
   </a>
-  <a href="https://linkedin.com/in/mateo-díaz-044966216">
+  <a href="https://linkedin.com/in/mateo-díaz-044966216" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="100" height="100"/>
   </a>
-  <a href="https://github.com/carlomagnowhite">
+  <a href="https://github.com/carlomagnowhite" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="100" height="100"/>
   </a>
-  <a href="https://my-portfolio-one-phi-16.vercel.app/home">
+  <a href="https://my-portfolio-one-phi-16.vercel.app/home" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Portfolio" width="100" height="100"/>
   </a>
 </div>
