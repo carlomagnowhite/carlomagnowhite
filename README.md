@@ -11,9 +11,9 @@ mateo@backend:~$ Cuenca, Azuay - Ecuador
 mateo@backend:~$ UTA FISEI
 ```
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineer;Backend+Developer;UTA+FISEI" alt="Typing SVG" />
-</div>
+<div align="center" style="padding: 3rem;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=1500&pause=1000&color=00B317&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEER+%F0%9F%92%BB;UTA+FISEI+%E2%99%A8;Backend+Developer+%E2%9C%85" alt="Typing SVG" /></a>
+</div>  
 
 ## 💻 About Me
 
@@ -64,15 +64,19 @@ mateo@backend:~$ ./connect.sh
   <a href="https://gitlab.com/matt.diaz.gomez/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="100" height="100"/>
   </a>
-  <a href="https://linkedin.com/in/mateo-díaz-044966216" target="_blank">
+  <a href="https://linkedin.com/in/mateo-diaz-gomez" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="100" height="100"/>
   </a>
   <a href="https://github.com/carlomagnowhite" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="100" height="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Github" width="100" height="100"/>
   </a>
   <a href="https://my-portfolio-one-phi-16.vercel.app/home" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Portfolio" width="100" height="100"/>
+    <img src="https://img.icons8.com/color/100/briefcase--v1.png" alt="Portafolio" width="100" height="100"/>
   </a>
+  <a href="mailto:mateo19dg@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="100" height="100"/>
+  </a>
+
 </div>
 
 ---
