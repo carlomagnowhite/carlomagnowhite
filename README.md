@@ -54,7 +54,7 @@ mateo@backend:~$ ls -la goals/
 
 <div style="padding-bottom: 3em;" align="center" >
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlomagnowhite&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=carlomagnowhite&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
