@@ -53,9 +53,9 @@ mateo@backend:~$ ls -la goals/
 
 
 <div style="padding-bottom: 3em;" align="center" >
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=carlomagnowhite&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=carlomagnowhite&theme=neon-dark&locale=es" alt="GitHub Streak" />
+</a>
 </div>
 
 ## 🌐 Connect With Me
