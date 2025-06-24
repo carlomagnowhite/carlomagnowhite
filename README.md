@@ -48,7 +48,14 @@ mateo@backend:~$ ls -la goals/
 
 <div align="center" style="padding: 3em;">
   <img src="https://github-readme-stats.vercel.app/api?username=carlomagnowhite&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img style="padding-top: 3em;" src="https://github-readme-streak-stats.herokuapp.com/?user=carlomagnowhite&theme=dark" alt="GitHub Streak"/>
+</div>
+
+
+
+<div style="padding-bottom: 3em;" align="center" >
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlomagnowhite&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 ## 🌐 Connect With Me
